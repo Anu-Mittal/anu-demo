@@ -1,2 +1,3 @@
 # anu-demo
-this id my first Git repository
+this is My first Git Repository.
+Author-Anu
